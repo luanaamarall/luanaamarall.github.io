@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    display: block;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: white;
+    color: red;
+    padding: 10px;
+    border-radius: 20px 20px;
+}
+
+.central{
+    text-align: center;
+}
